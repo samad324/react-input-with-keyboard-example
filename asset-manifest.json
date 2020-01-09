@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-input-with-keyboard-example/static/css/main.459f0d0b.chunk.css",
+    "main.js": "/react-input-with-keyboard-example/static/js/main.89cb9e2f.chunk.js",
+    "main.js.map": "/react-input-with-keyboard-example/static/js/main.89cb9e2f.chunk.js.map",
+    "runtime-main.js": "/react-input-with-keyboard-example/static/js/runtime-main.2dd353d8.js",
+    "runtime-main.js.map": "/react-input-with-keyboard-example/static/js/runtime-main.2dd353d8.js.map",
+    "static/css/2.74fdd95a.chunk.css": "/react-input-with-keyboard-example/static/css/2.74fdd95a.chunk.css",
+    "static/js/2.982bfdf6.chunk.js": "/react-input-with-keyboard-example/static/js/2.982bfdf6.chunk.js",
+    "static/js/2.982bfdf6.chunk.js.map": "/react-input-with-keyboard-example/static/js/2.982bfdf6.chunk.js.map",
+    "index.html": "/react-input-with-keyboard-example/index.html",
+    "precache-manifest.891de50f1aaf67c3234eb74621eb1dfa.js": "/react-input-with-keyboard-example/precache-manifest.891de50f1aaf67c3234eb74621eb1dfa.js",
+    "service-worker.js": "/react-input-with-keyboard-example/service-worker.js",
+    "static/css/2.74fdd95a.chunk.css.map": "/react-input-with-keyboard-example/static/css/2.74fdd95a.chunk.css.map",
+    "static/css/main.459f0d0b.chunk.css.map": "/react-input-with-keyboard-example/static/css/main.459f0d0b.chunk.css.map",
+    "static/js/2.982bfdf6.chunk.js.LICENSE": "/react-input-with-keyboard-example/static/js/2.982bfdf6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd353d8.js",
+    "static/css/2.74fdd95a.chunk.css",
+    "static/js/2.982bfdf6.chunk.js",
+    "static/css/main.459f0d0b.chunk.css",
+    "static/js/main.89cb9e2f.chunk.js"
+  ]
+}
